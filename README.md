@@ -1,4 +1,4 @@
-[![CircleCI](https://app.circleci.com/pipelines/github/clequinio5/ml-microservice-k8s-aws.svg?style=shield)](https://app.circleci.com/pipelines/github/clequinio5/ml-microservice-k8s-aws)
+[![CircleCI](https://circleci.com/gh/clequinio5/ml-microservice-k8s-aws.svg?style=shield)](https://app.circleci.com/pipelines/github/clequinio5/ml-microservice-k8s-aws)
 
 ## Project Overview
 
