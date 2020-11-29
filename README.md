@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://app.circleci.com/pipelines/github/clequinio5/ml-microservice-k8s-aws.svg?style=shield)](https://app.circleci.com/pipelines/github/clequinio5/ml-microservice-k8s-aws)
 
 ## Project Overview
 
